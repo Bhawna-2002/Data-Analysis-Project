@@ -10,9 +10,9 @@ Exploratory Data Analysis (EDA) on multiple datasets using:
 - Seaborn
 
 ## 📁 Datasets Included
-- Google Play Store data
-- Flight prices
-- Red wine quality
+- 1.Google Play Store data
+- 2.Flight prices
+- 3.Red wine quality
 
 ## 📓 Notebooks
 - `data_cleaning-google-playstore.ipynb`
